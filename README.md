@@ -1,4 +1,4 @@
-# 🎤 ControlInterview
+# 🎤 About ControlInterview
 
 **ControlInterview** is a practical interview prep hub built for one thing:  
 helping candidates answer tough questions **clearly, confidently, and without rambling**.
